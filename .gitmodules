@@ -1,0 +1,3 @@
+[submodule "baseos"]
+	path = baseos
+	url = git@github.com:elaverick/baseos.git
